@@ -19,15 +19,24 @@ The objective of this lab was to simulate a real-world enterprise web hosting en
 
 * Internet Information Services (IIS)
 
-![IPCONFIG](screenshots/dhcp/SCOPE_FOR_DHCP.png)
+![IPCONFIG](screenshots/configuration/get-service-w3svc.png)
 
 * DNS Server
+
+![IPCONFIG](screenshots/configuration/dns-record.png)
 
 * Active Directory Domain Services (AD DS)
 
 * Windows Firewall
 
+![IPCONFIG](screenshots/configuration/firewall-rule.png)
+
+
 * Hyper-V
+
+![IPCONFIG](screenshots/configuration/hyper-v-vm.png)
+
+![IPCONFIG](screenshots/configuration/hyper-v-manager.png)
 
 ### Client System
 
@@ -41,6 +50,7 @@ The objective of this lab was to simulate a real-world enterprise web hosting en
 
 
 
+![IPCONFIG](screenshots/configuration/structure.png)
 
 
 
@@ -55,23 +65,29 @@ The objective of this lab was to simulate a real-world enterprise web hosting en
 
 ### Home
 
-Provides an overview of the enterprise lab environment and hosted services.
+![IPCONFIG](screenshots/webpages/updated-homepage.png)
 
 ### About
 
-Contains project information and infrastructure details.
+![IPCONFIG](screenshots/webpages/aboutpage.png)
 
 ### Services
 
-Lists technical services demonstrated within the lab environment.
+![IPCONFIG](screenshots/webpages/servicespage.png)
 
 ### Projects
 
-Showcases Windows Server, Active Directory, Hyper-V, and IIS projects.
+![IPCONFIG](screenshots/webpages/updated-projectspage2.png)
 
 ### Contact
 
-Displays administrator and server information.
+![IPCONFIG](screenshots/webpages/contactpage.png)
+
+
+![IPCONFIG](screenshots/webpages/github-button-added.png)
+
+
+![IPCONFIG](screenshots/webpages/github-account-opened.png)
 
 ---
 
@@ -140,48 +156,6 @@ Website access:
 
 ---
 
-## Validation
-
-The website was successfully accessed from a domain-joined Windows 11 virtual machine using:
-
-`http://ravikumar`
-
-DNS hostname resolution, IIS web hosting, page navigation, and client connectivity were successfully tested and verified.
----
-
-## Screenshots
-
-### Infrastructure
-
-* Dell PowerEdge R720 Server
-
-* Windows Server 2022
-
-* Hyper-V Environment
-
-### IIS Configuration
-
-* IIS Manager
-
-* Default Website
-
-* Website Files
-
-### DNS
-
-* DNS A Record (ravikumar)
-
-### Website Pages
-
-* Home Page
-
-* About Page
-
-* Services Page
-
-* Projects Page
-
-* Contact Page
 
 ### Client Validation
 
@@ -192,3 +166,7 @@ DNS hostname resolution, IIS web hosting, page navigation, and client connectivi
 ## Outcome
 
 Successfully designed, hosted, and managed a professional multi-page website using IIS on Windows Server 2022. The project demonstrates practical experience with enterprise web hosting, DNS configuration, Active Directory integration, and Windows Server administration.
+
+## Author
+
+RAVI KUMAR

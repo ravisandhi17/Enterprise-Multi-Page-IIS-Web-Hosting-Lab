@@ -83,19 +83,12 @@ Configured an Active Directory-integrated DNS record:
 |----------|-----------|
 | IP Address | 192.168.2.194 |
 
-```text
-Hostname: ravikumar
-IP Address: 192.168.2.194
-```
 
 Website access:
 
-| Website Access | http://ravikumar |
-|----------------|------------------|
+| Website Access | `http://ravikumar` |
+|----------------|--------------------|
 
-```text
-http://ravikumar
-```
 
 ---
 

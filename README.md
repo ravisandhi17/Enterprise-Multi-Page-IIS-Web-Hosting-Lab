@@ -39,18 +39,15 @@ The objective of this lab was to simulate a real-world enterprise web hosting en
 
 ## Website Structure
 
-```
-C:\inetpub\wwwroot
-│
-├── index.html
-├── about.html
-├── services.html
-├── projects.html
-├── contact.html
-│
-└── css
-    └── style.css
-```
+
+
+
+
+
+
+
+
+
 
 ---
 
@@ -82,12 +79,19 @@ Displays administrator and server information.
 
 Configured an Active Directory-integrated DNS record:
 
+| Hostname | ravikumar |
+|----------|-----------|
+| IP Address | 192.168.2.194 |
+
 ```text
 Hostname: ravikumar
 IP Address: 192.168.2.194
 ```
 
 Website access:
+
+| Website Access | http://ravikumar |
+|----------------|------------------|
 
 ```text
 http://ravikumar

@@ -144,7 +144,7 @@ Website access:
 
 The website was successfully accessed from a domain-joined Windows 11 virtual machine using:
 
-http://ravikumar
+`http://ravikumar`
 
 DNS hostname resolution, IIS web hosting, page navigation, and client connectivity were successfully tested and verified.
 ---
@@ -185,7 +185,7 @@ DNS hostname resolution, IIS web hosting, page navigation, and client connectivi
 
 ### Client Validation
 
-* Browser access using http://ravikumar
+* Browser access using `http://ravikumar`
 
 ---
 

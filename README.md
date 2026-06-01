@@ -19,6 +19,8 @@ The objective of this lab was to simulate a real-world enterprise web hosting en
 
 * Internet Information Services (IIS)
 
+![IPCONFIG](screenshots/dhcp/SCOPE_FOR_DHCP.png)
+
 * DNS Server
 
 * Active Directory Domain Services (AD DS)
@@ -37,7 +39,7 @@ The objective of this lab was to simulate a real-world enterprise web hosting en
 
 ## Website Structure
 
-```text
+```
 C:\inetpub\wwwroot
 │
 ├── index.html

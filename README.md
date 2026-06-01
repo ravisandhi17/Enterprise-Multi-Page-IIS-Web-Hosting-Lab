@@ -90,6 +90,10 @@ The objective of this lab was to simulate a real-world enterprise web hosting en
 
 ![IPCONFIG](screenshots/webpages/github-account-opened.png)
 
+## Access from Win11-Lab VM
+
+![IPCONFIG](screenshots/webpages/homepage-from-vm.png)
+
 ---
 
 ## DNS Configuration
